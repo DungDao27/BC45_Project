@@ -62,3 +62,9 @@
     box-shadow: rgb(1 1 1 / 5%) 1px 1px 5px 0px;
     background-color: var(--bg-color);
 }
+.services h3
+{
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 700;
+}
