@@ -262,6 +262,13 @@
 {
     background: var(--bg-lightgrey);
 }
+<<<<<<< HEAD
+=======
+.feedback .fb-layout
+{
+    padding-top: 80px !important;
+}
+>>>>>>> 8a1c92413086af8045da4623bc6aaecdb0dac326
 .feedback .testimonial 
 {
     position: relative;
@@ -386,6 +393,7 @@
 {
     background: var(--secondary-color);
     opacity: .5;
+<<<<<<< HEAD
 }
 
 .news a.zoom 
@@ -749,4 +757,6 @@
     font-size: 17px;
     letter-spacing: .5px;
     opacity: 1;
+=======
+>>>>>>> 8a1c92413086af8045da4623bc6aaecdb0dac326
 }
