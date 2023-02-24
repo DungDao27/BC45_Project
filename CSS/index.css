@@ -262,6 +262,11 @@
 {
     background: var(--bg-lightgrey);
 }
+.feedback .fb-layout
+{
+    padding-top: 80px !important;
+}
+
 .feedback .testimonial 
 {
     position: relative;
